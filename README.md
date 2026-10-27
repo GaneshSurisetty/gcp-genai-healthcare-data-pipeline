@@ -120,3 +120,13 @@ identified 10 valid records, and rejected one record containing
 a negative claim amount.
 
 ![Healthcare Data Quality Validation](docs/screenshots/data-quality-output.png)
+
+## Pipeline Demonstration
+
+The following image is an illustrative mockup of the healthcare
+data pipeline.
+
+Python data-quality validation was successfully tested locally.
+PySpark execution and GCP deployment are not yet verified.
+
+![Illustrative Pipeline Demo](docs/screenshots/pipeline-demo-mockup.png)

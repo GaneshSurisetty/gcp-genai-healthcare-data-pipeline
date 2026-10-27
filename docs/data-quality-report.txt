@@ -1,0 +1,6 @@
+﻿Healthcare Data Quality Report
+------------------------------
+Total Records: 11
+Valid Records: 10
+Invalid Records: 1
+Rejected E1011: Negative claim amount
