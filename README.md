@@ -109,3 +109,14 @@ No real patient data or protected health information is required.
 ## Disclaimer
 
 This is a personal portfolio project. The architecture represents the intended GCP solution. Cloud deployment and AI integration are not claimed as completed until implemented and tested.
+
+
+## Verified Execution Results
+
+### Healthcare Data Quality Validation
+
+The validation script processed 11 synthetic healthcare records,
+identified 10 valid records, and rejected one record containing
+a negative claim amount.
+
+![Healthcare Data Quality Validation](docs/screenshots/data-quality-output.png)
